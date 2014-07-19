@@ -1,7 +1,7 @@
 Spring/Angular Demo
 ===================
 
-This is a sample application showing how to integrate [AngularJS](https://angularjs.org/) with a RESTful API developed in Java using [Spring Framework](http://spring.io/). You can read the tutorial [here](http://example.com).
+This is a sample application showing how to integrate [AngularJS](https://angularjs.org/) with a RESTful API developed in Java using [Spring Framework](http://spring.io/). You can read the tutorial [here](http://earangol.me/2014/07/18/web-development-with-spring-and-angularjs-part-i/).
 
 Requirements
 ------------
